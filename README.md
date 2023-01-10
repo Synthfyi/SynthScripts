@@ -21,6 +21,7 @@ I am experienced in,
 
 - JavaScript
 - Node.js
+- Python
 - HTML5
 - CSS3
 - Skript
