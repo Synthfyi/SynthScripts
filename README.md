@@ -14,6 +14,8 @@ Stuff you should know,
 
 - English Speaking
 
+- He/Him
+
 
 ## 🛠 Skills
 
