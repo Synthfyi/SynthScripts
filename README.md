@@ -1,6 +1,6 @@
 # 👋 Hi, im Synth
 
-A 12 year old aspiring developer from the England. 
+A 13 year old aspiring developer from the England. 
 Self taught in HTML, CSS, JavaScript and many more.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synthscripts&label=Profile%20views&color=0e75b6&style=flat" alt="synthscripts" /> </p>
