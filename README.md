@@ -6,17 +6,6 @@ Self taught in HTML, CSS, JavaScript and many more.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synthscripts&label=Profile%20views&color=0e75b6&style=flat" alt="synthscripts" /> </p>
 
 
-## 🚀 About Me
-
-Stuff you should know,
-
-- 12 years old
-
-- English Speaking
-
-- He/Him
-
-
 ## 🛠 Skills
 
 I am experienced in,
@@ -32,7 +21,9 @@ I am experienced in,
 
 ## 🔗 Links
 
-My Socials and links,
+Socials and links,
+
+- Websites: https://synth.fyi, https://synthscripts.dev
 
 - Discord: Synth#1417
 
