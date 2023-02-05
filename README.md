@@ -23,8 +23,8 @@ I am experienced in,
 
 Socials and links,
 
-- Websites: https://synth.fyi, https://synthscripts.dev
+- Websites: [https://synth.fyi, https://synthscripts.dev]
 
-- Discord: Synth#1417
+- Discord: Synth#1417 [https://discord.com/users/1046146076534653068]
 
-- Youtube: __Synth
+- Youtube: __Synth [https://www.youtube.com/@__synth9898]
